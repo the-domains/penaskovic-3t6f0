@@ -1,0 +1,14 @@
+layout_spectrum: 0.9922990170307457
+typography_spectrum: 0.16742794658057392
+color:
+  brandStrength: 0.8453894301783293
+  lightness: 0.29596527572721243
+  saturation: 0.38188067195005715
+  rhythmicContrast: 0.13361903838813305
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+name: '@penaskovic'
